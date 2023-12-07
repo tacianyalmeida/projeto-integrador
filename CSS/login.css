@@ -1,0 +1,43 @@
+div{
+    background-color: white;
+    margin: 200px auto;
+    flex-direction: column;
+    display: flex;
+    max-width: 350px;
+    height: 400px;
+    border-radius: 20px;
+}
+
+h2{
+    text-align: center;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+input{
+    margin-top: 5px;
+    margin-bottom: 8px;
+    max-width: 250px;
+    margin-left: 50px;
+    border-radius: 5px;
+}
+
+label{
+    margin-left: 140px;
+    font-family: 'Poppins', sans-serif;
+}
+
+#senha{
+    margin-left: 70px;
+}
+
+button{
+    margin-top: 50px;
+    border-radius: 9px;
+    max-width: 65px;
+    margin-left: 140px;
+}
+
+body{
+    background-color: lightgreen;
+}
